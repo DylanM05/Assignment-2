@@ -1,0 +1,13 @@
+# Ignore compiled files
+*.class
+*.jar
+
+# Ignore log files
+*.log
+
+# Ignore Node.js modules
+node_modules/
+
+# Ignore build directories
+dist/
+build/
